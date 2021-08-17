@@ -1,5 +1,6 @@
 ---
 layout: home 
+name: smthn
 title: null
 ---
 # About Shara
