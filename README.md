@@ -1,3 +1,0 @@
-# site
-
-Testing GitHub Pages
