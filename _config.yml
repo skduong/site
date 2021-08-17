@@ -1,0 +1,9 @@
+# Site settings
+title: El Titulo
+author:
+  name: skduong
+  #email: your-email@domain.com
+description: "Here is the description"
+
+# Build settings
+remote_theme: jekyll/minima
