@@ -6,7 +6,7 @@ author:
 description: "Here is the description"
 
 # Configs
-exclude: ['README.md']
+exclude: ['./README.md']
 
 # Build settings
 remote_theme: jekyll/minima
