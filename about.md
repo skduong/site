@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: home #should be page but then sizing changes due to </article>
 title: About
 # title-heading: false
 ---
-# About This Page H1
+# About This Page 
 What's this about?
 
 ## About About Pages
