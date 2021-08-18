@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About
+title-heading: false
 ---
-
+# About This Page
 What's this about?
 
 ## About About Pages
