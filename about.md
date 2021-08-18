@@ -3,7 +3,7 @@ layout: page
 title: About
 # title-heading: false
 ---
-## About This Page
+# About This Page
 What's this about?
 
 ## About About Pages
